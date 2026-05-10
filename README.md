@@ -382,6 +382,3 @@ For support and questions:
 - [ ] **Video Analysis**: AI-powered video interview analysis
 - [ ] **Skills Assessment**: Integrated coding challenges and assessments
 
----
-
-**Built with ❤️ using AI-powered technologies for fair and intelligent recruitment.**
